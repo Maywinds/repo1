@@ -4,3 +4,5 @@ hello world!!!
 hello me!
 hello me!!
 hello me!!!
+add something to repo2
+ni neng nai wo he ?
