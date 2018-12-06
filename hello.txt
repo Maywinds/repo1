@@ -6,3 +6,5 @@ hello me!!
 hello me!!!
 add something to repo2
 ni neng nai wo he ?
+add some content
+add tow mage
